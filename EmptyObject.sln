@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyObject", "EmptyObject\EmptyObject.csproj", "{94795488-C2E3-48B0-B5CE-48743D6BB73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyObject.Test", "EmptyObject.Test\EmptyObject.Test.csproj", "{890832BA-7891-4088-80FC-182A2E63EBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyObject.Attributes", "EmptyObject.Attributes\EmptyObject.Attributes.csproj", "{34787F10-C092-42FF-B183-547727486285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94795488-C2E3-48B0-B5CE-48743D6BB73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94795488-C2E3-48B0-B5CE-48743D6BB73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94795488-C2E3-48B0-B5CE-48743D6BB73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94795488-C2E3-48B0-B5CE-48743D6BB73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890832BA-7891-4088-80FC-182A2E63EBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890832BA-7891-4088-80FC-182A2E63EBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890832BA-7891-4088-80FC-182A2E63EBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890832BA-7891-4088-80FC-182A2E63EBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34787F10-C092-42FF-B183-547727486285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34787F10-C092-42FF-B183-547727486285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34787F10-C092-42FF-B183-547727486285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34787F10-C092-42FF-B183-547727486285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
